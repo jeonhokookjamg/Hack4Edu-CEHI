@@ -39,29 +39,3 @@
 3. **Sirve** a tu comunidad
 
 `Escuela Móvil` `Comedor Humanitario` `Centro Digital` `Tienda Local`
-
----
-
-## ✨ Portal V7 Final Limpio
-
-Login limpio: solo dice **"Ingresa usuario"**
-
-| Rol | Usuario |
-|---|---|
-| Ejecutivo | `cehi.jamg.x7k9.1207` |
-| Docente | `cehi.gmda.zmjs.9564` |
-| Alumno Primaria | `cehi.jlpg.v3j8.2181` |
-| Alumno Lic. | `cehi.dmrf.8hlj.1988` |
-
-**Portal:** https://cehi-global-v7.netlify.app
-
----
-
-## 📦 Cómo subir a GitHub
-
-1. Crea repo `cehi-v7-final`
-2. Sube este archivo como `README.md`
-3. Sube tu sistema como `index.html`
-4. Settings > Pages > Branch main / root > Save
-
-© 2025 CEHI - Formar para servir, educar para trascender
