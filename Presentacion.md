@@ -3,7 +3,7 @@
 
 ### 🔗 PORTAL OFICIAL
 **[https://cehi-global-v7.netlify.app](https://cehi-global-v7.netlify.app)**
-> Entra aquí para probar el sistema V7 Final Limpio
+
 
 ---
 
